@@ -1,0 +1,1 @@
+1. Set a triger on tblCart and enter update tblCart set total = (price * qty) - discount
